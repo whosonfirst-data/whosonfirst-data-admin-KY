@@ -1,0 +1,67 @@
+{
+  "id": 1277089143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.28333,19.28333,-81.28333,19.28333",
+    "geom:latitude":19.28333,
+    "geom:longitude":-81.28333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lower Valley",
+    "gn:country_code":"KY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580601,
+    "gn:latitude":19.28333,
+    "gn:longitude":-81.28333,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Lower Valley",
+    "gn:population":0,
+    "gn:timezone":"America/Cayman",
+    "iso:country":"KY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632611,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580601
+    },
+    "wof:country":"KY",
+    "wof:geomhash":"e9a86c42e196b7d182ade631179fbb0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632611,
+            "empire_id":136253055,
+            "locality_id":1277089143,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277089143,
+    "wof:lastmodified":1536758454,
+    "wof:name":"Lower Valley",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ky",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.28333,
+    19.28333,
+    -81.28333,
+    19.28333
+],
+  "geometry": {"coordinates":[-81.28333000000001,19.28333],"type":"Point"}
+}

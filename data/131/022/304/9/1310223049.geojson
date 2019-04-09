@@ -1,0 +1,67 @@
+{
+  "id": 1310223049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.36667,19.28333,-81.36667,19.28333",
+    "geom:latitude":19.28333,
+    "geom:longitude":-81.36667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Half Way Pond",
+    "gn:country_code":"KY",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3580645,
+    "gn:latitude":19.28333,
+    "gn:longitude":-81.36667,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Half Way Pond",
+    "gn:population":0,
+    "gn:timezone":"America/Cayman",
+    "iso:country":"KY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632611,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580645
+    },
+    "wof:country":"KY",
+    "wof:geomhash":"dd9d706f96a05777a8829b5a7ff312c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632611,
+            "empire_id":136253055,
+            "locality_id":1310223049,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310223049,
+    "wof:lastmodified":1536825994,
+    "wof:name":"Half Way Pond",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ky",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.36667,
+    19.28333,
+    -81.36667,
+    19.28333
+],
+  "geometry": {"coordinates":[-81.36667,19.28333],"type":"Point"}
+}

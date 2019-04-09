@@ -1,0 +1,67 @@
+{
+  "id": 1242988931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.29866,19.2806,-81.29866,19.2806",
+    "geom:latitude":19.2806,
+    "geom:longitude":-81.29866,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Savannah",
+    "gn:country_code":"KY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580529,
+    "gn:latitude":19.2806,
+    "gn:longitude":-81.29866,
+    "gn:modification_date":"2014-04-10",
+    "gn:name":"Savannah",
+    "gn:population":0,
+    "gn:timezone":"America/Cayman",
+    "iso:country":"KY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632611,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580529
+    },
+    "wof:country":"KY",
+    "wof:geomhash":"928b6767297e2519f324a88a29e8804b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632611,
+            "empire_id":136253055,
+            "locality_id":1242988931,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242988931,
+    "wof:lastmodified":1536967888,
+    "wof:name":"Savannah",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ky",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.29866,
+    19.2806,
+    -81.29866,
+    19.2806
+],
+  "geometry": {"coordinates":[-81.29866,19.2806],"type":"Point"}
+}

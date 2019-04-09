@@ -1,0 +1,72 @@
+{
+  "id": 1259493359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.1,19.31667,-81.1,19.31667",
+    "geom:latitude":19.31667,
+    "geom:longitude":-81.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gun Bay",
+    "gn:cc2":"KY",
+    "gn:country_code":"KY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580650,
+    "gn:latitude":19.31667,
+    "gn:longitude":-81.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gun Bay",
+    "gn:population":0,
+    "gn:timezone":"America/Cayman",
+    "iso:country":"KY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gun Bay Village",
+        "Gun Bay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632611,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580650
+    },
+    "wof:country":"KY",
+    "wof:geomhash":"657b87413e4373b01f487045f4e961e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632611,
+            "empire_id":136253055,
+            "locality_id":1259493359,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259493359,
+    "wof:lastmodified":1537659336,
+    "wof:name":"Gun Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ky",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.1,
+    19.31667,
+    -81.1,
+    19.31667
+],
+  "geometry": {"coordinates":[-81.09999999999999,19.31667],"type":"Point"}
+}

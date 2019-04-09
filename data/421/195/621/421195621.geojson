@@ -1,0 +1,81 @@
+{
+  "id": 421195621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.23333,19.35,-81.23333,19.35",
+    "geom:latitude":19.35,
+    "geom:longitude":-81.23333,
+    "iso:country":"KY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Brinkley"
+    ],
+    "qs:gn_country":"KY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3580723,
+    "qs:gn_pop":0,
+    "qs:name":"Brinkleys",
+    "qs:name_adm0":"Cayman Islands",
+    "qs:name_adm1":"North Side",
+    "qs:photos":993,
+    "qs:photos_1k":201,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":993,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1214044,
+    "qs:woe_adm0":23424783,
+    "qs:woe_id":57587,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        85632611,
+        85681183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2654684,
+        "gp:id":13949,
+        "qs:id":1214044,
+        "qs_pg:id":1082054
+    },
+    "wof:country":"KY",
+    "wof:created":1459009854,
+    "wof:geomhash":"c4c6fe486f433f89d2878a95cdbe523d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "dependency_id":85632611,
+            "locality_id":421195621,
+            "region_id":85681183
+        }
+    ],
+    "wof:id":421195621,
+    "wof:lastmodified":1509410032,
+    "wof:name":"Brinkleys",
+    "wof:parent_id":85681183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ky",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.23333,
+    19.35,
+    -81.23333,
+    19.35
+],
+  "geometry": {"coordinates":[-81.23333,19.35],"type":"Point"}
+}

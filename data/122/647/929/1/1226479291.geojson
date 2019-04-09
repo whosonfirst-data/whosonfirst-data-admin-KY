@@ -1,0 +1,67 @@
+{
+  "id": 1226479291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.10984,19.66114,-80.10984,19.66114",
+    "geom:latitude":19.66114,
+    "geom:longitude":-80.10984,
+    "gn:admin1_code":"10375972.0",
+    "gn:asciiname":"Little Cayman",
+    "gn:country_code":"KY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":9294258,
+    "gn:latitude":19.66114,
+    "gn:longitude":-80.10984,
+    "gn:modification_date":"2015-07-12",
+    "gn:name":"Little Cayman",
+    "gn:population":0,
+    "gn:timezone":"America/Cayman",
+    "iso:country":"KY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632611,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9294258
+    },
+    "wof:country":"KY",
+    "wof:geomhash":"66181911ee8c1c8366c0abbb55abef53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632611,
+            "empire_id":136253055,
+            "locality_id":1226479291,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226479291,
+    "wof:lastmodified":1537090444,
+    "wof:name":"Little Cayman",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ky",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.10984,
+    19.66114,
+    -80.10984,
+    19.66114
+],
+  "geometry": {"coordinates":[-80.10984000000001,19.66114],"type":"Point"}
+}

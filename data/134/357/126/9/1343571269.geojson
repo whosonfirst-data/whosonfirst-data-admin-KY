@@ -1,0 +1,67 @@
+{
+  "id": 1343571269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.78333,19.73333,-79.78333,19.73333",
+    "geom:latitude":19.73333,
+    "geom:longitude":-79.78333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"The Moorings",
+    "gn:country_code":"KY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580497,
+    "gn:latitude":19.73333,
+    "gn:longitude":-79.78333,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"The Moorings",
+    "gn:population":0,
+    "gn:timezone":"America/Cayman",
+    "iso:country":"KY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632611,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580497
+    },
+    "wof:country":"KY",
+    "wof:geomhash":"5343a6f109580302d7f4d310b9fb910f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632611,
+            "empire_id":136253055,
+            "locality_id":1343571269,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343571269,
+    "wof:lastmodified":1537080641,
+    "wof:name":"The Moorings",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ky",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.78333,
+    19.73333,
+    -79.78333,
+    19.73333
+],
+  "geometry": {"coordinates":[-79.78333000000001,19.73333],"type":"Point"}
+}

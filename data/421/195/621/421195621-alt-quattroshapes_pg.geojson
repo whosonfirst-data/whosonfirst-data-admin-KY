@@ -1,0 +1,16 @@
+{
+  "id": 421195621,
+  "type": "Feature",
+  "properties": {"wof:repo":"whosonfirst-data-admin-ky",
+    "src:geom":"quattroshapes_pg",
+    "wof:geomhash":"8da1412458090d225ed735539485cd14",
+    "wof:id":421195621
+},
+  "bbox": [
+    0.3819,
+    52.1668,
+    0.3819,
+    52.1668
+],
+  "geometry": {"coordinates":[0.3819,52.1668],"type":"Point"}
+}

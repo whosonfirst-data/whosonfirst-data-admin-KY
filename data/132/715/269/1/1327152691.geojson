@@ -1,0 +1,67 @@
+{
+  "id": 1327152691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.38333,19.35,-81.38333,19.35",
+    "geom:latitude":19.35,
+    "geom:longitude":-81.38333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Upper Land",
+    "gn:country_code":"KY",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580489,
+    "gn:latitude":19.35,
+    "gn:longitude":-81.38333,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Upper Land",
+    "gn:population":0,
+    "gn:timezone":"America/Cayman",
+    "iso:country":"KY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632611,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580489
+    },
+    "wof:country":"KY",
+    "wof:geomhash":"fcd2e9777e9153745d888713c9154389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632611,
+            "empire_id":136253055,
+            "locality_id":1327152691,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327152691,
+    "wof:lastmodified":1537081499,
+    "wof:name":"Upper Land",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ky",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.38333,
+    19.35,
+    -81.38333,
+    19.35
+],
+  "geometry": {"coordinates":[-81.38333,19.35],"type":"Point"}
+}

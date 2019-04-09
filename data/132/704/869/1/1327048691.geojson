@@ -1,0 +1,66 @@
+{
+  "id": 1327048691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.26145,19.36415,-81.26145,19.36415",
+    "geom:latitude":19.36415,
+    "geom:longitude":-81.26145,
+    "gn:asciiname":"Rum Point",
+    "gn:country_code":"KY",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9241039,
+    "gn:latitude":19.36415,
+    "gn:longitude":-81.26145,
+    "gn:modification_date":"2014-07-19",
+    "gn:name":"Rum Point",
+    "gn:population":0,
+    "gn:timezone":"America/Cayman",
+    "iso:country":"KY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632611,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9241039
+    },
+    "wof:country":"KY",
+    "wof:geomhash":"7317c1c7e08a4ee59b7935c285660462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632611,
+            "empire_id":136253055,
+            "locality_id":1327048691,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327048691,
+    "wof:lastmodified":1536736928,
+    "wof:name":"Rum Point",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ky",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.26145,
+    19.36415,
+    -81.26145,
+    19.36415
+],
+  "geometry": {"coordinates":[-81.26145,19.36415],"type":"Point"}
+}

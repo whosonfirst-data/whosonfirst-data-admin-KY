@@ -1,0 +1,99 @@
+{
+  "id": 421173021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.41667,19.36667,-81.41667,19.36667",
+    "geom:latitude":19.36667,
+    "geom:longitude":-81.41667,
+    "iso:country":"KY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "West Bay"
+    ],
+    "name:eng_x_preferred":[
+        "West Bay"
+    ],
+    "name:ind_x_preferred":[
+        "West Bay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a7\u30b9\u30c8\u30d9\u30a4"
+    ],
+    "name:pol_x_preferred":[
+        "West Bay"
+    ],
+    "name:spa_x_preferred":[
+        "West Bay"
+    ],
+    "name:swe_x_preferred":[
+        "West Bay"
+    ],
+    "name:unk_x_variant":[
+        "West End"
+    ],
+    "qs:gn_country":"KY",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3580477,
+    "qs:gn_pop":10768,
+    "qs:name":"West Bay",
+    "qs:name_adm0":"Cayman Islands",
+    "qs:name_adm1":"West Bay",
+    "qs:photos":3998,
+    "qs:photos_1k":810,
+    "qs:photos_9k":18,
+    "qs:photos_9r":12,
+    "qs:photos_all":3998,
+    "qs:photos_sr":22,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":488959,
+    "qs:woe_adm0":23424783,
+    "qs:woe_id":57639,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580477,
+        "gp:id":57639,
+        "qs:id":488959,
+        "wd:id":"Q7984402",
+        "wk:page":"West Bay, Cayman Islands"
+    },
+    "wof:country":"KY",
+    "wof:created":1459008962,
+    "wof:geomhash":"08d7635c429f585e4ee7b84d41d15efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":421173021,
+            "region_id":-1
+        }
+    ],
+    "wof:id":421173021,
+    "wof:lastmodified":1553816363,
+    "wof:name":"West Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":10768,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ky",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.41667,
+    19.36667,
+    -81.41667,
+    19.36667
+],
+  "geometry": {"coordinates":[-81.41667,19.36667],"type":"Point"}
+}

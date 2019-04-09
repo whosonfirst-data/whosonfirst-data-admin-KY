@@ -1,0 +1,67 @@
+{
+  "id": 1293505809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.87906,19.69395,-79.87906,19.69395",
+    "geom:latitude":19.69395,
+    "geom:longitude":-79.87906,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Frenchman's Fort",
+    "gn:country_code":"KY",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580663,
+    "gn:latitude":19.69395,
+    "gn:longitude":-79.87906,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Frenchman\u2019s Fort",
+    "gn:population":0,
+    "gn:timezone":"America/Cayman",
+    "iso:country":"KY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632611,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580663
+    },
+    "wof:country":"KY",
+    "wof:geomhash":"264c16aa25066a1430e7d15e3dab7406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632611,
+            "empire_id":136253055,
+            "locality_id":1293505809,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293505809,
+    "wof:lastmodified":1536760838,
+    "wof:name":"Frenchman's Fort",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ky",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.87906,
+    19.69395,
+    -79.87906,
+    19.69395
+],
+  "geometry": {"coordinates":[-79.87906,19.69395],"type":"Point"}
+}
