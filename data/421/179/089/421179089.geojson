@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Bodden Town"
+    ],
     "name:deu_x_preferred":[
         "Bodden Town"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421179089,
-    "wof:lastmodified":1561827589,
+    "wof:lastmodified":1563247418,
     "wof:name":"Bodden Town",
     "wof:parent_id":85681183,
     "wof:placetype":"locality",

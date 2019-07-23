@@ -13,7 +13,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "West Bay"
+    ],
+    "name:deu_x_preferred":[
+        "West Bay"
+    ],
     "name:eng_x_preferred":[
+        "West Bay"
+    ],
+    "name:fra_x_preferred":[
         "West Bay"
     ],
     "name:ind_x_preferred":[
@@ -36,6 +45,9 @@
     ],
     "name:unk_x_variant":[
         "West End"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0633\u0679 \u0628\u06d2"
     ],
     "qs:gn_country":"KY",
     "qs:gn_fcode":"PPL",
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":421173021,
-    "wof:lastmodified":1561827589,
+    "wof:lastmodified":1563247418,
     "wof:name":"West Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

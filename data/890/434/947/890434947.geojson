@@ -18,6 +18,9 @@
     "name:eng_x_preferred":[
         "North Side"
     ],
+    "name:fra_x_preferred":[
+        "North Side"
+    ],
     "name:jpn_x_preferred":[
         "\u30ce\u30fc\u30b9\u30b5\u30a4\u30c9"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890434947,
-    "wof:lastmodified":1561827589,
+    "wof:lastmodified":1563247418,
     "wof:name":"North Side",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
