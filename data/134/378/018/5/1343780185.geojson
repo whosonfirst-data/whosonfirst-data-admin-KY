@@ -25,6 +25,9 @@
     "iso:country":"KY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pease Bay"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632611,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343780185,
-    "wof:lastmodified":1536783016,
+    "wof:lastmodified":1564150210,
     "wof:name":"Pease Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
