@@ -12,8 +12,10 @@
     "gn:latitude":19.3,
     "gn:longitude":-81.38333,
     "iso:country":"KY",
+    "lbl:bbox":"-81.391067,19.294112,-81.381067,19.304112",
     "lbl:latitude":19.299112,
     "lbl:longitude":-81.386067,
+    "lbl:max_zoom":18.0,
     "mps:latitude":19.29594,
     "mps:longitude":-81.382595,
     "mz:hierarchy_label":0,
@@ -52,9 +54,6 @@
     "name:swe_x_preferred":[
         "Dog City"
     ],
-    "name:unk_x_variant":[
-        "Dog City"
-    ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
     "qs:gn_namadm1":"00",
@@ -81,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":2889,
     "wof:belongsto":[
         85632611,
@@ -93,7 +92,6 @@
     "wof:concordances":{
         "gn:id":3580686,
         "gp:id":57591,
-        "qs:id":889968,
         "qs_pg:id":889968,
         "wd:id":"Q572451"
     },
@@ -114,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563247413,
+    "wof:lastmodified":1566591080,
     "wof:name":"Dog City",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

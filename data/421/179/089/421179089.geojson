@@ -10,8 +10,12 @@
     "geom:latitude":19.28333,
     "geom:longitude":-81.25,
     "iso:country":"KY",
+    "lbl:bbox":"-81.27,19.26333,-81.23,19.30333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Bodden Town"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Bodden Town"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bodden"
     ],
     "qs:gn_country":"KY",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3580733,
         "gp:id":57583,
-        "qs:id":149056,
+        "qs_pg:id":149056,
         "wd:id":"Q524789",
         "wk:page":"Bodden Town (village)"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421179089,
-    "wof:lastmodified":1563247418,
+    "wof:lastmodified":1566591083,
     "wof:name":"Bodden Town",
     "wof:parent_id":85681183,
     "wof:placetype":"locality",
