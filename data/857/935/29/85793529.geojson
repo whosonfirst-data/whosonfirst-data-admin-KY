@@ -96,6 +96,10 @@
         "wd:id":"Q572451"
     },
     "wof:country":"KY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f419e9e43ab976c0ebed089990310f07",
     "wof:hierarchy":[
         {
@@ -112,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566591080,
+    "wof:lastmodified":1582319707,
     "wof:name":"Dog City",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
