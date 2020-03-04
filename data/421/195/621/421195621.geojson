@@ -57,6 +57,9 @@
     },
     "wof:country":"KY",
     "wof:created":1459009854,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c4c6fe486f433f89d2878a95cdbe523d",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":421195621,
-    "wof:lastmodified":1566591083,
+    "wof:lastmodified":1582319707,
     "wof:name":"Brinkleys",
     "wof:parent_id":85681183,
     "wof:placetype":"locality",
