@@ -41,6 +41,9 @@
     "name:pol_x_preferred":[
         "West Bay"
     ],
+    "name:rus_x_preferred":[
+        "\u0423\u044d\u0441\u0442-\u0411\u0435\u0439"
+    ],
     "name:spa_x_preferred":[
         "West Bay"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421173021,
-    "wof:lastmodified":1566591083,
+    "wof:lastmodified":1690938380,
     "wof:name":"West Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

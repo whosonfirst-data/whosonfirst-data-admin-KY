@@ -38,6 +38,9 @@
     "name:pol_x_preferred":[
         "Bodden Town"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0434\u0434\u0435\u043d-\u0422\u0430\u0443\u043d"
+    ],
     "name:spa_x_preferred":[
         "Bodden Town"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421179089,
-    "wof:lastmodified":1566591083,
+    "wof:lastmodified":1690938380,
     "wof:name":"Bodden Town",
     "wof:parent_id":85681183,
     "wof:placetype":"locality",
