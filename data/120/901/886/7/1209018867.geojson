@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-81.23333,19.35,-81.23333,19.35",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -38,7 +40,7 @@
         "gn:id":3580723
     },
     "wof:country":"KY",
-    "wof:geomhash":"a69805217b4b8926a9937bb5aa9b576c",
+    "wof:geomhash":"c4c6fe486f433f89d2878a95cdbe523d",
     "wof:hierarchy":[
         {
             "dependency_id":85632611,
@@ -46,20 +48,22 @@
         }
     ],
     "wof:id":1209018867,
-    "wof:lastmodified":1566591081,
+    "wof:lastmodified":1706240331,
     "wof:name":"Brinkleys",
     "wof:parent_id":85632611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421195621
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -81.23333000000002,
+    -81.23333,
     19.35,
-    -81.23333000000002,
+    -81.23333,
     19.35
 ],
-  "geometry": {"coordinates":[-81.23333000000002,19.35],"type":"Point"}
+  "geometry": {"coordinates":[-81.23333,19.35],"type":"Point"}
 }
